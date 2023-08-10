@@ -1,0 +1,12 @@
+newspaper3k==0.2.8
+transformers==4.30.2
+tensorflow>=2
+sentencepiece==0.1.99
+networkx==3.1
+scipy==1.11.1
+python-dateutilpip ==2.8.2
+pandas==2.0.3
+nltk==3.8.1
+uvicorn==0.23.2
+fastapi==0.100.1
+validators==0.20.0
